@@ -1,5 +1,6 @@
 # CDL_Quantum_Hackathon_2021
 Collaboration repository for CDL bootcamp Quantum Hackathon 2021
+This branch contains [DWave dependencies](https://github.com/dwave-training).
 
 This project uses [mybinder.org](https://mybinder.readthedocs.io/en/latest/introduction.html) online service.
 
