@@ -1,7 +1,7 @@
 # CDL_Quantum_Hackathon_2021
 Collaboration repository for CDL bootcamp Quantum Hackathon 2021.
 
-This branch is configured with [Rigetti] specific dependencies.
+This branch is configured with [Rigetti specific dependencies](https://docs.rigetti.com/qcs/getting-started/installing-locally#install-the-compiler-and-qvm).
 
 This project uses [mybinder.org](https://mybinder.readthedocs.io/en/latest/introduction.html) online service.
 
