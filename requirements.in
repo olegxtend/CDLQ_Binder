@@ -1,5 +1,5 @@
 numpy
 matplotlib==3.*
-dwave-system==1.7.0
-dimod==0.10.0
 dwave-ocean-sdk
+dwave-system==1.6.0
+#dimod==0.10.0
