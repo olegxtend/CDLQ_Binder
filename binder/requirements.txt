@@ -1,5 +1,4 @@
 # could not generate using pip-compile, adding manually
-# strawberryfields - https://github.com/XanaduAI/strawberryfields
 numpy>=1.19.2
 scipy
 sympy>=1.5
@@ -20,8 +19,8 @@ pytest-cov>=2.11.1
 pytest-mock>=3.5.1
 pytest-randomly>=3.5.0
 black>=20.8b1
-strawberryfields
-#pennylane - https://github.com/PennyLaneAI/pennylane
+git+https://github.com/XanaduAI/strawberryfields.git#egg=strawberryfields
+git+https://github.com/PennyLaneAI/pennylane.git#egg=pennylane
 #numpy
 #scipy
 cvxpy
